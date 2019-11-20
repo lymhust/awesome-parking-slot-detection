@@ -123,5 +123,5 @@ https://github.com/wvangansbeke/LaneDetection_End2End
 
 If you have any suggestions about papers, feel free to mail me :)
 
-- [blog](http://www.cverblog.cn/)
-- [pull](https://github.com/amusi/awesome-lane-detection/pulls)
+- [homepage](https://sites.google.com/site/lymhust/)
+- [pull](https://github.com/lymhust/awesome-parking-slot-detection/pulls)
