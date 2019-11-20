@@ -32,6 +32,8 @@ parking slot detection
 
 ["Geometric Features-Based Parking Slot Detection." Sensors 18.9 (2018): 2821.](https://www.mdpi.com/1424-8220/18/9/2821)
 
+["Vision-based Semantic Mapping and Localization for Autonomous Indoor Parking." 2018 IEEE Intelligent Vehicles Symposium (IV). IEEE, 2018.](https://arxiv.org/pdf/1809.09929.pdf)
+
 ## 2017
 
 ["Computer vision in automated parking systems: Design, implementation and challenges." Image and Vision Computing 68 (2017): 88-101.](https://www.sciencedirect.com/science/article/pii/S0262885617301105)
