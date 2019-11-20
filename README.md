@@ -20,6 +20,8 @@ parking slot detection
 
 ["A deep-learning approach for parking slot detection on surround-view images." 2019 IEEE Intelligent Vehicles Symposium (IV). IEEE, 2019.](https://ieeexplore.ieee.org/abstract/document/8813777/)
 
+["DMPR-PS: A Novel Approach for Parking-Slot Detection Using Directional Marking-Point Regression." 2019 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2019.](https://ieeexplore.ieee.org/abstract/document/8784735)
+
 ## 2018
 
 ["Vision-Based Parking-Slot Detection: A DCNN-Based Approach and a Large-Scale Benchmark Dataset." IEEE Transactions on Image Processing 27.11 (2018): 5350-5364.](https://www.researchgate.net/profile/Ying_Shen37/publication/319574999_Vision-based_parking-slot_detection_A_benchmark_and_a_learning-based_approach/links/5bdd00ef92851c6b27a2a052/Vision-based-parking-slot-detection-A-benchmark-and-a-learning-based-approach.pdf)
