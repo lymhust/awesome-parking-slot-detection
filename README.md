@@ -28,9 +28,13 @@ parking slot detection
 
 ["VH-HFCN based Parking Slot and Lane Markings Segmentation on Panoramic Surround View." 2018 IEEE Intelligent Vehicles Symposium (IV). IEEE, 2018.](https://arxiv.org/pdf/1804.07027.pdf)
 
+["Probabilistic Occupancy Filter for Parking Slot Marker Detection in an Autonomous Parking System Using AVM." IEEE Transactions on Intelligent Transportation Systems 20.6 (2018): 2389-2394.](https://ieeexplore.ieee.org/abstract/document/8424185)
+
 ## 2017
 
 ["Computer vision in automated parking systems: Design, implementation and challenges." Image and Vision Computing 68 (2017): 88-101.](https://www.sciencedirect.com/science/article/pii/S0262885617301105)
+
+["Automatic parking slot detection based on around view monitor (AVM) systems." 2017 9th International Conference on Wireless Communications and Signal Processing (WCSP). IEEE, 2017.](https://ieeexplore.ieee.org/abstract/document/8170903)
 
 ## 2016
 ["Directional-DBSCAN: Parking-slot detection using a clustering method in around-view monitoring system." 2016 IEEE Intelligent Vehicles Symposium (IV). IEEE, 2016.](https://ieeexplore.ieee.org/abstract/document/7535409)
@@ -38,6 +42,8 @@ parking slot detection
 ["Automatic parking space detection and tracking for underground and indoor environments." IEEE Transactions on Industrial Electronics 63.9 (2016): 5687-5698.](https://web.yonsei.ac.kr/jksuhr/papers/Automatic%20Parking%20Space%20Detection%20and%20Tracking%20for%20Underground%20and%20Indoor%20Environments.pdf)
 
 ["Semantic segmentation-based parking space detection with standalone around view monitoring system." Machine Vision and Applications 30.2 (2019): 309-319.](https://www.researchgate.net/publication/328640756_Semantic_segmentation-based_parking_space_detection_with_standalone_around_view_monitoring_system)
+
+["A method of detecting parking slot in hough space and pose estimation using rear view image for autonomous parking system." 2016 IEEE International Conference on Network Infrastructure and Digital Content (IC-NIDC). IEEE, 2016.](https://ieeexplore.ieee.org/abstract/document/7974615)
 
 # Code
 
