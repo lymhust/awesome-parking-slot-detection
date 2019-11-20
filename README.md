@@ -26,11 +26,11 @@ parking slot detection
 
 ["VH-HFCN based Parking Slot and Lane Markings Segmentation on Panoramic Surround View." 2018 IEEE Intelligent Vehicles Symposium (IV). IEEE, 2018.](https://arxiv.org/pdf/1804.07027.pdf)
 
-# 2017
+## 2017
 
 ["Computer vision in automated parking systems: Design, implementation and challenges." Image and Vision Computing 68 (2017): 88-101.](https://www.sciencedirect.com/science/article/pii/S0262885617301105)
 
-# 2016
+## 2016
 ["Directional-DBSCAN: Parking-slot detection using a clustering method in around-view monitoring system." 2016 IEEE Intelligent Vehicles Symposium (IV). IEEE, 2016.](https://ieeexplore.ieee.org/abstract/document/7535409)
 
 ["Automatic parking space detection and tracking for underground and indoor environments." IEEE Transactions on Industrial Electronics 63.9 (2016): 5687-5698.](https://web.yonsei.ac.kr/jksuhr/papers/Automatic%20Parking%20Space%20Detection%20and%20Tracking%20for%20Underground%20and%20Indoor%20Environments.pdf)
