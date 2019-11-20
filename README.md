@@ -30,6 +30,8 @@ parking slot detection
 
 ["Probabilistic Occupancy Filter for Parking Slot Marker Detection in an Autonomous Parking System Using AVM." IEEE Transactions on Intelligent Transportation Systems 20.6 (2018): 2389-2394.](https://ieeexplore.ieee.org/abstract/document/8424185)
 
+["Geometric Features-Based Parking Slot Detection." Sensors 18.9 (2018): 2821.](https://www.mdpi.com/1424-8220/18/9/2821)
+
 ## 2017
 
 ["Computer vision in automated parking systems: Design, implementation and challenges." Image and Vision Computing 68 (2017): 88-101.](https://www.sciencedirect.com/science/article/pii/S0262885617301105)
