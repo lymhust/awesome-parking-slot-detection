@@ -43,6 +43,8 @@ parking slot detection
 
 https://cslinzhang.github.io/deepps/
 
+https://github.com/Teoge/DMPR-PS
+
 # Blog
 
 [Searching for a Parking Spot? AI Got It](https://blogs.nvidia.com/blog/2019/09/11/drive-labs-ai-parking/)
