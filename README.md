@@ -19,6 +19,8 @@ parking slot detection
 
 ## 2020
 
+["Vision-Based Parking Slot Detection Based on End-to-End Semantic Segmentation Training." 2020 IEEE International Conference on Consumer Electronics (ICCE). IEEE, 2020.](https://ieeexplore.ieee.org/abstract/document/9043164)
+
 ["End-to-End Trainable One-Stage Parking Slot Detection Integrating Global and Local Informations." arXiv preprint arXiv:2003.02445 (2020).](https://arxiv.org/abs/2003.02445)
 
 ["SPFCN: Select and Prune the Fully Convolutional Networks for Real-time Parking Slot Detection." arXiv preprint arXiv:2003.11337 (2020).](https://arxiv.org/abs/2003.11337)
