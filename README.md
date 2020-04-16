@@ -16,6 +16,12 @@ parking slot detection
 
 # Paper
 
+## 2020
+
+["End-to-End Trainable One-Stage Parking Slot Detection Integrating Global and Local Informations." arXiv preprint arXiv:2003.02445 (2020).](https://arxiv.org/abs/2003.02445)
+
+["SPFCN: Select and Prune the Fully Convolutional Networks for Real-time Parking Slot Detection." arXiv preprint arXiv:2003.11337 (2020).](https://arxiv.org/pdf/2003.11337.pdf)
+
 ## 2019
 
 ["A deep-learning approach for parking slot detection on surround-view images." 2019 IEEE Intelligent Vehicles Symposium (IV). IEEE, 2019.](https://ieeexplore.ieee.org/abstract/document/8813777/)
