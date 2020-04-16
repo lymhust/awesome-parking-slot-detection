@@ -19,6 +19,8 @@ parking slot detection
 
 ## 2020
 
+["Vacant Parking Slot Detection in the Around View Image Based on Deep Learning." Sensors 20.7 (2020): 2138.](https://www.mdpi.com/1424-8220/20/7/2138/htm)
+
 ["Vision-Based Parking Slot Detection Based on End-to-End Semantic Segmentation Training." 2020 IEEE International Conference on Consumer Electronics (ICCE). IEEE, 2020.](https://ieeexplore.ieee.org/abstract/document/9043164)
 
 ["End-to-End Trainable One-Stage Parking Slot Detection Integrating Global and Local Informations." arXiv preprint arXiv:2003.02445 (2020).](https://arxiv.org/abs/2003.02445)
