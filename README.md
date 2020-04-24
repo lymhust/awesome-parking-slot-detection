@@ -13,9 +13,9 @@ parking slot detection
 
 [Blog](#Blog)
 
-[Datasets](#Datasets)
+[Datasets](#Dataset)
 
-[Demos](#Demos)
+[Demos](#Demo)
 
 # Paper
 
@@ -74,11 +74,11 @@ https://github.com/Teoge/DMPR-PS
 
 [AI Can Detect Open Parking Spaces](https://news.developer.nvidia.com/ai-algorithm-aims-to-help-you-find-a-parking-spot/)
 
-# Datasets
+# Dataset
 
 [Tongji Parking-slot Dataset 2.0](https://cslinzhang.github.io/deepps/)
 
-# Demos
+# Demo
 
 https://www.youtube.com/watch?v=XmgYxAg149o
 
