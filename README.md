@@ -13,9 +13,9 @@ parking slot detection
 
 [Blog](#Blog)
 
-[Datasets](#Dataset)
+[Dataset](#Dataset)
 
-[Demos](#Demo)
+[Demo](#Demo)
 
 # Paper
 
