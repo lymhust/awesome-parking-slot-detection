@@ -21,6 +21,8 @@ parking slot detection
 
 ## 2020
 
+["PSDet: Efficient and Universal Parking Slot Detection." arXiv preprint arXiv:2005.05528 (2020).](https://arxiv.org/pdf/2005.05528.pdf)
+
 ["Vacant Parking Slot Detection in the Around View Image Based on Deep Learning." Sensors 20.7 (2020): 2138.](https://www.mdpi.com/1424-8220/20/7/2138/htm)
 
 ["Vision-Based Parking Slot Detection Based on End-to-End Semantic Segmentation Training." 2020 IEEE International Conference on Consumer Electronics (ICCE). IEEE, 2020.](https://ieeexplore.ieee.org/abstract/document/9043164)
