@@ -21,6 +21,8 @@ parking slot detection
 
 ## 2020
 
+["AVP-SLAM: Semantic Visual Mapping and Localization for Autonomous Vehicles in the Parking Lot." arXiv preprint arXiv:2007.01813 (2020).](https://arxiv.org/abs/2007.01813)
+
 ["PSDet: Efficient and Universal Parking Slot Detection." arXiv preprint arXiv:2005.05528 (2020).](https://arxiv.org/pdf/2005.05528.pdf)
 
 ["Vacant Parking Slot Detection in the Around View Image Based on Deep Learning." Sensors 20.7 (2020): 2138.](https://www.mdpi.com/1424-8220/20/7/2138/htm)
