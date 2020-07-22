@@ -35,6 +35,8 @@ parking slot detection
 
 ## 2019
 
+["Parking Line Based SLAM Approach Using AVM/LiDAR Sensor Fusion for Rapid and Accurate Loop Closing and Parking Space Detection." Sensors 19.21 (2019): 4811.](https://www.mdpi.com/1424-8220/19/21/4811/htm)
+
 ["A deep-learning approach for parking slot detection on surround-view images." 2019 IEEE Intelligent Vehicles Symposium (IV). IEEE, 2019.](https://ieeexplore.ieee.org/abstract/document/8813777/)
 
 ["DMPR-PS: A Novel Approach for Parking-Slot Detection Using Directional Marking-Point Regression." 2019 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2019.](https://ieeexplore.ieee.org/abstract/document/8784735)
@@ -90,6 +92,7 @@ https://www.youtube.com/watch?v=XmgYxAg149o
 
 https://www.youtube.com/watch?v=THh3yB6nbMA
 
+https://www.youtube.com/watch?v=DCaltpi9X0s
 
 # Contact & Feedback
 
