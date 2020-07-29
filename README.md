@@ -98,5 +98,5 @@ https://www.youtube.com/watch?v=DCaltpi9X0s
 
 If you have any suggestions about papers, feel free to mail me :)
 
-- [homepage](https://sites.google.com/site/lymhust/)
+- [homepage](https://lymhust.github.io/)
 - [pull](https://github.com/lymhust/awesome-parking-slot-detection/pulls)
