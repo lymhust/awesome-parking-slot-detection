@@ -21,6 +21,8 @@ parking slot detection
 
 ## 2020
 
+["A Study Of Parking-Slot Detection With The Aid Of Pixel-Level Domain Adaptation." 2020 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2020."](https://ieeexplore.ieee.org/abstract/document/9102928)
+
 ["AVP-SLAM: Semantic Visual Mapping and Localization for Autonomous Vehicles in the Parking Lot." arXiv preprint arXiv:2007.01813 (2020).](https://arxiv.org/abs/2007.01813)
 
 ["PSDet: Efficient and Universal Parking Slot Detection." arXiv preprint arXiv:2005.05528 (2020).](https://arxiv.org/pdf/2005.05528.pdf)
