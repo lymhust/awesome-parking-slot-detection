@@ -20,6 +20,7 @@ parking slot detection
 # Paper
 
 ## 2020
+["Parking Slot Detection on Around-View Images Using DCNN." Frontiers in Neurorobotics (2020).](https://www.researchgate.net/profile/Wei_Li485/publication/343201863_Parking_Slot_Detection_on_Around-View_Images_Using_DCNN/links/5f1d68b745851515ef4aa7f7/Parking-Slot-Detection-on-Around-View-Images-Using-DCNN.pdf)
 
 ["A Study Of Parking-Slot Detection With The Aid Of Pixel-Level Domain Adaptation." 2020 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2020."](https://ieeexplore.ieee.org/abstract/document/9102928)
 
