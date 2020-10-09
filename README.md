@@ -20,8 +20,7 @@ parking slot detection
 # Paper
 
 ## 2020
-["Context-Based Parking Slot Detection With a Realistic Dataset." IEEE Access, 2020.]
-(https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9199853)
+["Context-Based Parking Slot Detection With a Realistic Dataset." IEEE Access, 2020.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9199853)
 
 ["Real Time Detection Algorithm of Parking Slot Based on Deep Learning and Fisheye Image." Journal of Physics: Conference Series. Vol. 1518. No. 1. IOP Publishing, 2020.](https://iopscience.iop.org/article/10.1088/1742-6596/1518/1/012037/pdf)
 
