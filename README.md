@@ -3,6 +3,8 @@ parking slot detection
 
 [Paper](#Paper)
 
+
+- [2021](#2021)
 - [2020](#2020)
 - [2019](#2019)
 - [2018](#2018)
@@ -18,6 +20,12 @@ parking slot detection
 [Demo](#Demo)
 
 # Paper
+
+
+## 2021 
+
+["Attentional Graph Neural Network for Parking-slot Detection." arXiv preprint arXiv:2104.02576 (2021).](https://arxiv.org/abs/2104.02576)
+
 
 ## 2020
 ["Context-Based Parking Slot Detection With a Realistic Dataset." IEEE Access, 2020.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9199853)
@@ -60,6 +68,8 @@ parking slot detection
 
 ["Vision-based Semantic Mapping and Localization for Autonomous Indoor Parking." 2018 IEEE Intelligent Vehicles Symposium (IV). IEEE, 2018.](https://arxiv.org/pdf/1809.09929.pdf)
 
+["DFNet: Semantic Segmentation on Panoramic Images with Dynamic Loss Weights and Residual Fusion Block." arXiv preprint arXiv:1806.07226 (2018).](https://arxiv.org/abs/1806.07226)
+
 ## 2017
 
 ["Computer vision in automated parking systems: Design, implementation and challenges." Image and Vision Computing 68 (2017): 88-101.](https://www.sciencedirect.com/science/article/pii/S0262885617301105)
@@ -96,6 +106,8 @@ https://github.com/dohoseok/context-based-parking-slot-detect/
 [Parking slot dataset for different scenes](https://github.com/wuzzh/Parking-slot-dataset)
 
 [Context-Based Parking Slot Detection With a Realistic Dataset](https://github.com/dohoseok/context-based-parking-slot-detect/)
+
+[AVM Dataset](https://github.com/ChulhoonJang/avm_dataset)
 
 # Demo
 
