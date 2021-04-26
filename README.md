@@ -24,6 +24,9 @@ parking slot detection
 
 ## 2021 
 
+["Attentional Graph Neural Network for Parking-slot Detection." arXiv preprint arXiv:2104.02576 (2021).](https://arxiv.org/abs/2104.02576)
+
+
 ## 2020
 ["Context-Based Parking Slot Detection With a Realistic Dataset." IEEE Access, 2020.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9199853)
 
@@ -64,6 +67,8 @@ parking slot detection
 ["Geometric Features-Based Parking Slot Detection." Sensors 18.9 (2018): 2821.](https://www.mdpi.com/1424-8220/18/9/2821)
 
 ["Vision-based Semantic Mapping and Localization for Autonomous Indoor Parking." 2018 IEEE Intelligent Vehicles Symposium (IV). IEEE, 2018.](https://arxiv.org/pdf/1809.09929.pdf)
+
+["DFNet: Semantic Segmentation on Panoramic Images with Dynamic Loss Weights and Residual Fusion Block." arXiv preprint arXiv:1806.07226 (2018).](https://arxiv.org/abs/1806.07226)
 
 ## 2017
 
