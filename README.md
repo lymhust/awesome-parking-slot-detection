@@ -24,6 +24,7 @@ parking slot detection
 
 ## 2021 
 
+["Research Review on Parking Space Detection Method"](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjEzNqXmNzyAhWKr6QKHak3BW4QFnoECCUQAQ&url=https%3A%2F%2Fwww.mdpi.com%2F2073-8994%2F13%2F1%2F128%2Fpdf&usg=AOvVaw3EysfaKnh4DqyHGG5nJ8qQ)
 ["Attentional Graph Neural Network for Parking-slot Detection." arXiv preprint arXiv:2104.02576 (2021).](https://arxiv.org/abs/2104.02576)
 
 
