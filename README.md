@@ -24,6 +24,7 @@ parking slot detection
 ## 2022
 
 ## 2021 
+["Deep Learning Based Parking Slot Detection and Tracking: PSDT-Net"](https://link.springer.com/chapter/10.1007/978-3-030-97672-9_26)
 
 ["CNN-based Two-Stage Parking Slot Detection Using Region-Specific Multi-Scale Feature Extraction"](https://arxiv.org/pdf/2108.06185.pdf)
 
