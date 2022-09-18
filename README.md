@@ -23,6 +23,9 @@ parking slot detection
 
 ## 2022
 
+["A Deep-Learning Approach for Parking Slot Detection on Surround-View Images
+"](https://www.researchgate.net/publication/335497667_A_Deep-Learning_Approach_for_Parking_Slot_Detection_on_Surround-View_Images)
+
 ## 2021 
 ["Deep Learning Based Parking Slot Detection and Tracking: PSDT-Net"](https://link.springer.com/chapter/10.1007/978-3-030-97672-9_26)
 
