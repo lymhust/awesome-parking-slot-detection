@@ -1,5 +1,5 @@
 # awesome-parking-slot-detection
-parking slot detection
+Parking Slot Detection research. This is a fork from [lymhust/awesome-parking-slot-detection](https://github.com/lymhust/awesome-parking-slot-detection) that is more up to date. 
 
 [Paper](#Paper)
 
