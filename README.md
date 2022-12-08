@@ -26,6 +26,9 @@ Parking Slot Detection research. This is a fork from [lymhust/awesome-parking-sl
 ["Public Parking Spot Detection And Geo-localization Using Transfer Learning"](https://arxiv.org/pdf/2209.00213.pdf)
 
 ## 2021 
+
+["Automated Parking Space Detection Using Convolutional Neural Networks"](https://arxiv.org/pdf/2106.07228.pdf)
+
 ["Deep Learning Based Parking Slot Detection and Tracking: PSDT-Net"](https://link.springer.com/chapter/10.1007/978-3-030-97672-9_26)
 
 ["CNN-based Two-Stage Parking Slot Detection Using Region-Specific Multi-Scale Feature Extraction"](https://arxiv.org/pdf/2108.06185.pdf)
@@ -116,6 +119,8 @@ https://github.com/dohoseok/context-based-parking-slot-detect/
 [Context-Based Parking Slot Detection With a Realistic Dataset](https://github.com/dohoseok/context-based-parking-slot-detect/)
 
 [AVM Dataset](https://github.com/ChulhoonJang/avm_dataset)
+
+[CNR Parking Dataset](http://cnrpark.it)
 
 # Demo
 
