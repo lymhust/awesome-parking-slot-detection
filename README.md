@@ -132,7 +132,6 @@ https://www.youtube.com/watch?v=DCaltpi9X0s
 
 # Contact & Feedback
 
-If you have any suggestions about papers, feel free to mail me :)
+If you have any suggestions about papers, feel free to make a PR :)
 
-- [homepage](https://lymhust.github.io/)
-- [pull](https://github.com/lymhust/awesome-parking-slot-detection/pulls)
+- [homepage of the original author lymhust](https://lymhust.github.io/)
