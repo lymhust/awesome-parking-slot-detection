@@ -23,7 +23,7 @@ Parking Slot Detection research. This is a fork from [lymhust/awesome-parking-sl
 
 ## 2023 
 
-- tbd
+["Automatic vision-based parking slot detection and occupancy classification"](https://www.sciencedirect.com/science/article/abs/pii/S0957417423006498)
 
 ## 2022
 
