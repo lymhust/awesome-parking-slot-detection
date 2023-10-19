@@ -24,7 +24,7 @@ Parking Slot Detection research. This is a fork from [lymhust/awesome-parking-sl
 ## 2023 
 
 
-["https://www.google.com/search?client=safari&rls=en&q=Holistic+Parking+Slot+Detection+with+Polygon-Shaped+Representations&ie=UTF-8&oe=UTF-8"](https://arxiv.org/pdf/2310.11629.pdf)
+["Holistic Parking Slot Detection with Polygon-Shaped Representations"](https://arxiv.org/pdf/2310.11629.pdf)
 ["Automatic vision-based parking slot detection and occupancy classification"](https://www.sciencedirect.com/science/article/abs/pii/S0957417423006498)
 
 ## 2022
