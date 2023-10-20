@@ -1,8 +1,10 @@
 # awesome-parking-slot-detection
-parking slot detection
+Parking Slot Detection research. This is a fork from [lymhust/awesome-parking-slot-detection](https://github.com/lymhust/awesome-parking-slot-detection) that is more up to date. 
 
 [Paper](#Paper)
-
+- [2023](#2023)
+- [2022](#2022)
+- [2021](#2021)
 - [2020](#2020)
 - [2019](#2019)
 - [2018](#2018)
@@ -18,6 +20,29 @@ parking slot detection
 [Demo](#Demo)
 
 # Paper
+
+## 2023 
+
+
+["Holistic Parking Slot Detection with Polygon-Shaped Representations"](https://arxiv.org/pdf/2310.11629.pdf)      
+["Automatic vision-based parking slot detection and occupancy classification"](https://www.sciencedirect.com/science/article/abs/pii/S0957417423006498)
+
+## 2022
+
+["Public Parking Spot Detection And Geo-localization Using Transfer Learning"](https://arxiv.org/pdf/2209.00213.pdf)
+
+## 2021 
+
+["Automated Parking Space Detection Using Convolutional Neural Networks"](https://arxiv.org/pdf/2106.07228.pdf)
+
+["Deep Learning Based Parking Slot Detection and Tracking: PSDT-Net"](https://link.springer.com/chapter/10.1007/978-3-030-97672-9_26)
+
+["CNN-based Two-Stage Parking Slot Detection Using Region-Specific Multi-Scale Feature Extraction"](https://arxiv.org/pdf/2108.06185.pdf)
+
+["Research Review on Parking Space Detection Method"](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjEzNqXmNzyAhWKr6QKHak3BW4QFnoECCUQAQ&url=https%3A%2F%2Fwww.mdpi.com%2F2073-8994%2F13%2F1%2F128%2Fpdf&usg=AOvVaw3EysfaKnh4DqyHGG5nJ8qQ)
+
+["Attentional Graph Neural Network for Parking-slot Detection." arXiv preprint arXiv:2104.02576 (2021).](https://arxiv.org/abs/2104.02576)
+
 
 ## 2020
 ["Context-Based Parking Slot Detection With a Realistic Dataset." IEEE Access, 2020.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9199853)
@@ -60,6 +85,8 @@ parking slot detection
 
 ["Vision-based Semantic Mapping and Localization for Autonomous Indoor Parking." 2018 IEEE Intelligent Vehicles Symposium (IV). IEEE, 2018.](https://arxiv.org/pdf/1809.09929.pdf)
 
+["DFNet: Semantic Segmentation on Panoramic Images with Dynamic Loss Weights and Residual Fusion Block." arXiv preprint arXiv:1806.07226 (2018).](https://arxiv.org/abs/1806.07226)
+
 ## 2017
 
 ["Computer vision in automated parking systems: Design, implementation and challenges." Image and Vision Computing 68 (2017): 88-101.](https://www.sciencedirect.com/science/article/pii/S0262885617301105)
@@ -97,6 +124,10 @@ https://github.com/dohoseok/context-based-parking-slot-detect/
 
 [Context-Based Parking Slot Detection With a Realistic Dataset](https://github.com/dohoseok/context-based-parking-slot-detect/)
 
+[AVM Dataset](https://github.com/ChulhoonJang/avm_dataset)
+
+[CNR Parking Dataset](http://cnrpark.it)
+
 # Demo
 
 https://www.youtube.com/watch?v=XmgYxAg149o
@@ -107,7 +138,6 @@ https://www.youtube.com/watch?v=DCaltpi9X0s
 
 # Contact & Feedback
 
-If you have any suggestions about papers, feel free to mail me :)
+If you have any suggestions about papers, feel free to make a PR :)
 
-- [homepage](https://lymhust.github.io/)
-- [pull](https://github.com/lymhust/awesome-parking-slot-detection/pulls)
+- [homepage of the original author lymhust](https://lymhust.github.io/)
